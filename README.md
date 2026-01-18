@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-green"/>
+    <img src="https://img.shields.io/badge/Generative%20AI-purple"/>
 </p>
 
 
